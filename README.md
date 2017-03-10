@@ -1,4 +1,3 @@
-# MultASM
 This is a simple algorithm witch build optimized ASM (assembler) code for multiplying two integer numbers. 
 The goal is to build shortest ASM code to multiply two numbers.
 Input is number N (multiplier) which is stored in M_ulaz.dat file. It is possible to enter more than one N number in file. Algorithm goes through each number and calculates best possible ASM code to multiply two integer numbers.
